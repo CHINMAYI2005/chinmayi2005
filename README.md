@@ -1,296 +1,269 @@
  <div align="center">
 
-👋 Hey there, I'm Chinmayi M!
+<img src="./WhatsApp%20Image%202026-10-09%20at%207.46.33%20PM.jpeg"
+     width="240"
+     alt="Chinmayi's Profile Photo"/>type=waving&color=gradient&customColorList=6,12,20,24,30&height=220&section=header&text=CHINMAYI%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineer%20%7C%20Innovator%20%7C%20Builder&descSize=18&descAlignY=55" width="100%" alt="Animated header"/>
 
-Electronics & Communication Engineering | AI/ML | Embedded Systems | IoT | VLSI
+<a href="https://chinmayim.chinmayic477.workers.dev/">
+  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-Explore_My_Work-8A2BE2?style=for-the-badge&logoColor=white" alt="Visit Portfolio"/>
+</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+%C3%97+Software+Engineer;Building+Ideas+Into+Real+Projects;AI%2FML+%7C+Embedded+Systems+%7C+IoT;Exploring+VLSI+and+Intelligent+Automation" alt="Typing SVG"/>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CHINMAYI2005&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/CHINMAYI2005?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Engineering%20%26%20Innovation-ff69b4?style=for-the-badge" alt="Focus"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=60&lines=Electronics+%26+Communication+Engineer;AI%2FML+%7C+Computer+Vision;Embedded+Systems+%7C+IoT+%7C+Robotics;Exploring+VLSI+%26+Semiconductor+Technology;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" alt="Animated typing introduction"/>
 
-<p>
-  <a href="https://github.com/CHINMAYI2005">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chinmayi-m-a6908335a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:chinmayic477@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
+
+<img src="https://raw.githubusercontent.com/CHINMAYI2005/CHINMAYI2005/main/WhatsApp%20Image%202026-10-09%20at%207.46.33%20PM.jpeg" width="240" alt="Chinmayi M profile photo"/>
+
+<br/><br/>
+
+<a href="https://github.com/CHINMAYI2005"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/chinmayi-m-a6908335a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://chinmayim.chinmayic477.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-Live-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=CHINMAYI2005&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/CHINMAYI2005?style=for-the-badge&logo=github&label=FOLLOWERS&color=00C9A7" alt="Followers"/>
 
 </div>
 
-🧑‍💻 About Me
+---
 
-class Chinmayi:
-    def __init__(self):
-        self.name = "Chinmayi M"
-        self.education = "B.E. Electronics & Communication Engineering"
-        self.college = "BGS Institute of Technology"
-        self.university = "Adichunchanagiri University"
-        self.location = "Mandya, Karnataka, India"
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Embedded Systems & IoT",
-            "Computer Vision",
-            "VLSI & Semiconductor Technology",
-            "Electronics & Industrial Automation"
-        ]
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding animation"/>
 
-        self.current_focus = [
-            "Building real-world engineering projects",
-            "Learning emerging technologies",
-            "Developing hardware-software solutions"
-        ]
+🎓 Electronics & Communication Engineering student at **BGS Institute of Technology, Adichunchanagiri University**.
 
-    def say_hello(self):
-        print("Building ideas into impactful innovations!")
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, IoT and VLSI.
 
-me = Chinmayi()
-me.say_hello()
+⚡ I enjoy combining hardware and software to develop practical engineering solutions.
 
-🎓 Electronics and Communication Engineering undergraduate at BGS Institute of Technology, Adichunchanagiri University.
+🏆 Hackathon prize winner with hands-on experience in collaborative project development.
 
-🤖 Interested in AI/ML, computer vision, embedded systems, IoT, and VLSI.
+🌱 Currently exploring intelligent automation, real-world AI applications and semiconductor technologies.
 
-🔌 Passionate about combining electronics, programming, sensors, and automation.
+<br clear="right"/>
 
-🏆 Hackathon winner with experience in collaborative engineering projects.
+---
 
-💡 Interested in solving real-world problems through practical technology.
-
-🌱 Continuously learning, experimenting, and building.
-
-💡 Interests
-
-Artificial Intelligence · Machine Learning · Computer Vision · Embedded Systems · IoT · VLSI · Robotics · Industrial Automation
-
-⚡ TECH ARSENAL
+## ⚡ My Tech Universe
 
 <div align="center">
 
-💻 Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" alt="Programming skills"/>
 
-🧰 Frameworks & Development Tools
+### 🧠 AI / ML & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,arduino,vscode,github" alt="Frameworks and Tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and computer vision tools"/>
 
-☁️ Databases & Technologies
+### 🔌 Embedded Systems & Development
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=arduino,github,vscode,flask,mongodb&theme=dark" alt="Development tools"/>
 
 </div>
 
-Programming: Python, Java (Basics), C++ (Basics), JavaScript, HTML, CSS, Embedded C
+**Hardware & IoT:** ESP32, Arduino Uno, 8051 Microcontroller, sensors, GSM modules, relay modules, ThingSpeak.
 
-AI & Computer Vision: TensorFlow, OpenCV, MediaPipe, Machine Learning Fundamentals
+**Electronics & VLSI:** Digital Electronics, Analog Electronics, CMOS fundamentals, K-maps, combinational and sequential circuits, Multisim.
 
-Embedded Systems & IoT: ESP32, Arduino Uno, Sensors, GSM Modules, Relay Modules, ThingSpeak
+**AI Tools:** Python, TensorFlow, MediaPipe, OpenCV and machine-learning fundamentals.
 
-Electronics & VLSI: Digital Electronics, Analog Electronics, CMOS Fundamentals, K-Maps, Combinational and Sequential Circuits, VLSI Fundamentals, Multisim
+---
 
-Tools: Git, GitHub, VS Code, MongoDB
-
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🐛 Silkworm Farm Automation Using IoT
+<div align="center">
+<img src="https://img.shields.io/badge/IoT-Agriculture-00C853?style=for-the-badge" alt="IoT Agriculture"/>
+</div>
 
-IoT-based environmental monitoring and robotic automation solution for silkworm farming.
+### 🐛 Silkworm Farm Automation
 
-Monitors environmental conditions using sensors.
+<img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="100%" alt="Technology animation"/>
 
-Integrates temperature, humidity, and gas monitoring.
+IoT-powered environmental monitoring and robotic automation for silkworm farming.
 
-Supports automated farm operations and alerts.
+- Environmental sensor monitoring
+- Temperature and humidity tracking
+- Automated farm operations
+- Alerts and remote monitoring
 
-Project supported through the NAIN initiative.
-
-Tech: ESP32 · Arduino · IoT · Sensors · Automation
+`ESP32` `Arduino` `IoT` `Sensors`
 
 </td>
 <td width="50%" valign="top">
 
-🤟 Sign Language Detection System
+<div align="center">
+<img src="https://img.shields.io/badge/AI-Computer_Vision-8A2BE2?style=for-the-badge" alt="AI Computer Vision"/>
+</div>
 
-A computer vision project designed to recognize hand gestures and convert them into readable text.
+### 🤟 Sign Language Detection
 
-Processes hand gestures using computer vision.
+<img src="https://img.shields.io/badge/Real--Time-Hand_Gesture_Recognition-FF69B4?style=flat-square" alt="Hand gesture recognition"/>
 
-Explores real-time gesture recognition.
+A computer-vision application that recognizes hand gestures and converts them into readable text.
 
-Connects AI techniques with accessibility applications.
+- Hand landmark detection
+- Gesture recognition
+- Accessibility-focused application
+- Real-time vision processing
 
-Tech: Python · TensorFlow · MediaPipe · OpenCV
+`Python` `TensorFlow` `MediaPipe` `OpenCV`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🤖 Smart AI Receptionist
+<div align="center">
+<img src="https://img.shields.io/badge/AI-Voice_Assistant-00BFFF?style=for-the-badge" alt="AI voice assistant"/>
+</div>
 
-A Python-based AI assistant concept for supporting automated visitor interactions.
+### 🤖 Smart AI Receptionist
 
-Focuses on voice-based interaction.
+A Python-based assistant concept for automating visitor interactions through voice-based communication.
 
-Explores speech recognition and AI integration.
+- Speech recognition
+- Intelligent visitor interaction
+- AI-assisted responses
 
-Designed to improve the visitor experience.
-
-Tech: Python · AI · Speech Recognition
+`Python` `AI` `Speech Recognition`
 
 </td>
 <td width="50%" valign="top">
 
-🏭 Industrial Butter Churning Machine
+<div align="center">
+<img src="https://img.shields.io/badge/Automation-Industrial-FF8C00?style=for-the-badge" alt="Industrial automation"/>
+</div>
 
-Industrial automation project involving dairy-processing equipment.
+### 🏭 Industrial Butter Churning Machine
 
-Assisted with component selection.
+An industrial dairy-processing project involving component selection, system integration and testing.
 
-Contributed to system integration and testing.
+- Industrial process automation
+- Hardware integration
+- Component selection and testing
 
-Gained practical exposure to embedded systems and automation.
-
-Focus: Embedded Systems · Industrial Automation
+`Embedded Systems` `Electronics` `Automation`
 
 </td>
 </tr>
 </table>
 
-💼 Internship Experience
+---
 
-🔌 Embedded Systems Intern — Amtariksha Tech Pvt. Ltd.
-
-January 2026 – February 2026
-
-Worked on industrial automation and dairy-processing machine development.
-
-Gained practical experience in component selection, integration, and testing.
-
-🧠 Artificial Intelligence Intern — CodeAlpha
-
-Completed practical tasks related to artificial intelligence concepts and problem-solving.
-
-Explored the application of AI techniques in software projects.
-
-🌱 Embedded Systems & IoT — NAIN Incubation Centre, BGSIT
-
-July 2026 – August 2026
-
-Worked on silkworm farm automation and environmental monitoring.
-
-Explored sensor integration and robotic automation for agricultural applications.
-
-Contributed to a project supported through the NAIN initiative of the Government of Karnataka.
-
-🏆 Achievements & Recognition
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-Achievement
+<img src="https://img.shields.io/badge/🥇_SIH_Internal_Hackathon_2026-1st_Place-FFD700?style=for-the-badge" alt="SIH first place"/>
 
-Recognition
+<img src="https://img.shields.io/badge/🚀_36--Hour_Krishimanthana_Hackathon-1st_Prize-00C853?style=for-the-badge" alt="Krishimanthana first prize"/>
 
-🇮🇳 SIH Internal Hackathon 2026 — BGSIT
+<img src="https://img.shields.io/badge/💡_PES_College_Hackathon-2nd_Prize-C0C0C0?style=for-the-badge" alt="PES second prize"/>
 
-🥇 1st Place
-
-🌱 NAIN Incubation Centre — Government of Karnataka
-
-₹5 lakh project funding
-
-🚀 36-Hour Krishimanthana Hackathon
-
-🥇 1st Prize
-
-💡 PES College Inter-College Hackathon
-
-🥈 2nd Prize
-
-⚙️ MECHNOVATE Project Exhibition
-
-🥈 2nd Prize
-
-🏅 JVTM Project Exhibition
-
-4th Place
-
-🚀 Startup Sparks — Vivartan Incubation Centre, Mysuru
-
-Shortlisted
+<img src="https://img.shields.io/badge/⚙️_MECHNOVATE_Project_Exhibition-2nd_Prize-CD7F32?style=for-the-badge" alt="MECHNOVATE second prize"/>
 
 </div>
 
-🤝 Leadership & Community
+- 🌱 **NAIN Incubation Centre, Government of Karnataka:** ₹5 lakh project funding for silkworm farm automation, as provided in the project details.
+- 🏅 **JVTM Project Exhibition:** 4th place.
+- 🚀 **IGNITEX 2025:** 4th place.
+- 💡 **Startup Sparks, Vivartan Incubation Centre, Mysuru:** Shortlisted.
 
-IEEE Student Chair — IEEE Circuits & Systems Society chapter.
+---
 
-IEEE student community participation.
+## 💼 Experience
 
-Active participant in hackathons, technical exhibitions, and collaborative engineering projects.
+<details>
+<summary><b>🌱 Embedded Systems & IoT Intern — NAIN Incubation Centre</b></summary>
 
-📜 Certifications & Learning
+**July – August 2026**
 
-Artificial Intelligence and Machine Learning fundamentals.
+- Worked on silkworm farm automation and environmental monitoring.
+- Explored embedded controllers, sensors and robotic automation.
+- Contributed to an agriculture-focused engineering project.
 
-Embedded Systems and IoT.
+</details>
 
-Electronics and VLSI fundamentals.
+<details>
+<summary><b>🔌 Embedded Systems Intern — Amtariksha Tech Pvt. Ltd.</b></summary>
 
-Programming and software development.
+**January – February 2026**
 
-Add verified certification names and credential links here as applicable.
+- Gained practical exposure to embedded systems and industrial automation.
+- Worked on component integration and system testing.
 
-📈 GitHub Analytics
+</details>
+
+<details>
+<summary><b>🧠 Artificial Intelligence Intern — CodeAlpha</b></summary>
+
+- Explored AI concepts and practical programming tasks.
+- Developed experience with AI-oriented problem-solving.
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CHINMAYI2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Chinmayi's GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINMAYI2005&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CHINMAYI2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINMAYI2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=CHINMAYI2005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=CHINMAYI2005&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 
 </div>
 
-🌐 Connect With Me
+---
+
+## 🐍 Watch My Contributions
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/CHINMAYI2005/CHINMAYI2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+*To enable the contribution animation, configure a GitHub Actions workflow in your profile repository to generate and publish the snake SVG to the `output` branch.*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://chinmayim.chinmayic477.workers.dev/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-8A2BE2?style=for-the-badge" alt="Portfolio website"/>
+</a>
 
 <a href="https://github.com/CHINMAYI2005">
-  <img src="https://img.shields.io/badge/GitHub-CHINMAYI2005-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
+
 <a href="https://www.linkedin.com/in/chinmayi-m-a6908335a">
-  <img src="https://img.shields.io/badge/LinkedIn-Chinmayi%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:chinmayic477@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
-💫 "Innovate. Build. Automate. Repeat."
+### 💜 Turning curiosity into creativity, and ideas into innovation.
 
-✨ Learn • Build • Innovate • Inspire ✨
+**LEARN · BUILD · INNOVATE · REPEAT**
 
-Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
+
