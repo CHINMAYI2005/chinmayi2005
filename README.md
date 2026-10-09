@@ -2,7 +2,7 @@
 
 # Hey there, I'm Chinmayi M 👋
 
-### Electronics & Communication Engineering | AI/ML | Embedded Systems & IoT
+### Electronics & Communication Engineering | AI/ML | Embedded Systems & IoT | VLSI
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects;AI%2FML+%7C+Computer+Vision+%7C+IoT;Embedded+Systems+%7C+Automation+%7C+VLSI" alt="Typing SVG"/>
@@ -84,8 +84,8 @@
 | **MECHNOVATE Inter-College Project Exhibition** | **2nd Prize** |
 | **JVTM Project Exhibition** | **4th Place** |
 | **IGNITEX 2025 — 24-hour National Hackathon** | **4th Place** |
-| **Startup Sparks, Vivartan Incubation Centre, Mysuru** | Shortlisted |
-
+| **Startup Sparks, Vivartan Incubation Centre, Mysuru (Selected)** |
+| **ATTENTED 10+ HACKATHONS** |
 </div>
 
 ## 💼 Experience
