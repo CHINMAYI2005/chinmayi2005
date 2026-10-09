@@ -2,6 +2,10 @@
 
 # Hey there, I'm Chinmayi M 👋
 
+<p>
+  <img src="(https://i.ibb.co/qY9BKWLh/Whats-App-Image-2026-10-09-at-7-46-33-PM.jpg)" width="150" alt="Chinmayi's Photo"/>
+</p>
+
 ### Electronics & Communication Engineering | AI/ML | Embedded Systems & IoT | VLSI
 
 <p>
