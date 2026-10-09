@@ -3,7 +3,7 @@
 # Hey there, I'm Chinmayi M 👋
 
 <p>
-  <img src=""
+  <img src="WhatsApp Image 2026-10-09 at 7.46.33 PM.jpeg"
        width="150"
        alt="Chinmayi's Photo"/>
 </p>
