@@ -4,7 +4,7 @@
 
 <p>
   <img src="WhatsApp Image 2026-10-09 at 7.46.33 PM.jpeg"
-       width="150"
+       width="250"
        alt="Chinmayi's Photo"/>
 </p>
 
